@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: See what attendees have to say about Chris Prendergast and his presentations on analytics and digital marketing.
-datePublished: '2016-02-11T03:28:43.655Z'
-dateModified: '2016-02-11T03:28:26.847Z'
+datePublished: '2016-02-11T03:35:29.755Z'
+dateModified: '2016-02-11T03:34:46.967Z'
 title: Testimonials
 author: []
+sourcePath: _posts/2016-02-11-testimonials.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-11-testimonials.md
-published: true
 url: testimonials/index.html
 _type: Article
 
