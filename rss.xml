@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Chris Prendergast - Marketer & Speaker]]></title>
+        <description><![CDATA[Chris Prendergast - Marketer & Speaker]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 11 Feb 2016 03:29:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Speaking & Presentations]]></title>
+            <description><![CDATA[<article><h1>Speaking & Presentations</h1><p>Chris Prendergast is an experienced public speaker with a variety of digital marketing and data analytics presentations for your business.</p></article>]]></description>
+            <link>undefinedspeaking-and-presentations/index.html</link>
+            <guid isPermaLink="false">674a9d4e-15d9-49de-9378-b7ce1b420d8b</guid>
+            <pubDate>Thu, 11 Feb 2016 03:28:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
