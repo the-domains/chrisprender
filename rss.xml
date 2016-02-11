@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Chris Prendergast - Marketer & Speaker]]></title>
         <description><![CDATA[Chris Prendergast - Marketer & Speaker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chrisprender/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 03:29:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 11 Feb 2016 03:30:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chrisprender/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testimonials]]></title>
+            <description><![CDATA[<article><h1>Testimonials</h1><p>Here's what people are saying about Chris Prendergast and his presentations:</p></article>]]></description>
+            <link>https://thegrid.ai/chrisprender/testimonials/index.html</link>
+            <guid isPermaLink="false">ff7bcc58-c3fc-4887-a8fb-36cee68bc211</guid>
+            <pubDate>Thu, 11 Feb 2016 03:28:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Speaking & Presentations]]></title>
             <description><![CDATA[<article><h1>Speaking & Presentations</h1><p>Chris Prendergast is an experienced public speaker with a variety of digital marketing and data analytics presentations for your business.</p></article>]]></description>
-            <link>undefinedspeaking-and-presentations/index.html</link>
+            <link>https://thegrid.ai/chrisprender/speaking-and-presentations/index.html</link>
             <guid isPermaLink="false">674a9d4e-15d9-49de-9378-b7ce1b420d8b</guid>
             <pubDate>Thu, 11 Feb 2016 03:28:43 GMT</pubDate>
         </item>
