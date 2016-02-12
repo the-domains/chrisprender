@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Chris Prendergast is an experienced public speaker with a variety of digital marketing and data analytics presentations for your business.
-datePublished: '2016-02-11T03:28:43.714Z'
-dateModified: '2016-02-11T03:21:40.703Z'
+datePublished: '2016-02-12T23:04:45.515Z'
+dateModified: '2016-02-12T22:10:25.974Z'
 title: 'Speaking & Presentations'
 author: []
+sourcePath: _posts/2016-02-11-speaking-and-presentations.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-11-speaking-and-presentations.md
-published: true
 url: speaking-and-presentations/index.html
 _type: Article
 
