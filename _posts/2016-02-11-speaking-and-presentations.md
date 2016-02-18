@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Chris Prendergast is an experienced public speaker with a variety of digital marketing and data analytics presentations for your business.
-datePublished: '2016-02-18T21:48:03.281Z'
-dateModified: '2016-02-18T21:47:40.513Z'
+datePublished: '2016-02-18T21:58:53.838Z'
+dateModified: '2016-02-18T21:58:47.914Z'
 title: 'Speaking & Presentations'
 author: []
 sourcePath: _posts/2016-02-11-speaking-and-presentations.md
@@ -39,8 +39,7 @@ Chris is available to speak about the following topics:
 * Conversion Rate Optimization (CRO)
 * Small Business Website Audits
 * Social Media & Personal Branding
-
-## Prepared Presentations
+* ## Prepared Presentations
 
 Chris has the following presentations available:
 
