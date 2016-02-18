@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Chris Prendergast is an experienced public speaker with a variety of digital marketing and data analytics presentations for your business.
-datePublished: '2016-02-18T21:41:52.586Z'
-dateModified: '2016-02-18T21:40:51.097Z'
+datePublished: '2016-02-18T21:44:53.802Z'
+dateModified: '2016-02-18T21:43:34.868Z'
 title: 'Speaking & Presentations'
 author: []
 sourcePath: _posts/2016-02-11-speaking-and-presentations.md
@@ -47,6 +47,8 @@ Chris has the following presentations available:
 * **Getting Started with Google Analytics**: Installing and understanding Google Analytics in only ten minutes a week.
 * **Better Analytics**: Going beyond the basics to gain more insight from your digital analytics.
 * **The Data-Driven Marketer**: How to make data the most powerful weapon in your digital marketing arsenal.
+* **The Psychic Analyst**: How to use your website analytics to read the minds of your visitors.
+* **R**
 * **Understanding Social Media**: You and your one billion closest friends.
 * **Search Engine Optimization**: Making a better website for both Google and your users.
 * **Personal Branding**: The science of marketing yourself online.
